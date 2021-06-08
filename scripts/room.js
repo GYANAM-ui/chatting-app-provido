@@ -11,3 +11,7 @@ function startChat() {
         window.location = 'chat.html';
     }
 }
+
+function webView() {
+    window.location = "webview/web.html";
+}
